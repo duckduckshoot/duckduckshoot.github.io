@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://duckduckshoot.github.io
+title: Duck Duck Shoot
+email: glassman1993@gmail.com
+author: duckduckshoot
+description: Adventures gaming
+paginate: 3
+google_analytics: 
